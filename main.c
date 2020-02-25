@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Next commit\n");
+  printf("Next commit(test3)\n");
   return 0;
 }
