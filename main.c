@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("test rebase2\n");
+  printf("test rebase3\n");
   return 0;
 }
